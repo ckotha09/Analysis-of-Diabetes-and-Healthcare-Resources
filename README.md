@@ -29,3 +29,5 @@ To understand patterns, trends, and healthcare infrastructure for diabetes by co
 - Merged views help policy and planning in public health.
 
 
+## Acknowledgments
+This project was completed as part of the Health Data Science curriculum at Saint Louis University.
